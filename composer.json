@@ -1,0 +1,20 @@
+{
+    "name": "hb/to_do_list_composer",
+    "description": "An example of todo",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hb\\ToDoListComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nathan Badoit",
+            "email": "nathanbadoithb@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.4"
+    }
+}
